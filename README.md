@@ -16,16 +16,15 @@
 ## Visual Walkthrough
 
 ###.
-![Image](Assets/ImageK/kothi kolli images_page-0001.jpg)
+![Landing Page](Assets/ImagesK/kothi%20kolli%20images_page-0001.jpg)
 ###.
-![Image](Assets/ImageK/kothi kolli images_page-0002.jpg)
+![Game Interaction](Assets/ImagesK/kothi%20kolli%20images_page-0002.jpg)
 ###.
-![Image](Assets/ImageK/kothi kolli images_page-0003.jpg)
+![Level Progress](Assets/ImagesK/kothi%20kolli%20images_page-0003.jpg)
 ###.
-![Image](Assets/ImageK/kothi kolli images_page-0004.jpg)
-###.
-![Image](Assets/ImageK/kothi kolli images_page-0005.jpg)
-
+![Completion Screen](Assets/ImagesK/kothi%20kolli%20images_page-0004.jpg)
+### Scoreboard
+![Scoreboard](Assets/ImagesK/kothi%20kolli%20images_page-0005.jpg)
 
 ---
 
