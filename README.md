@@ -15,16 +15,16 @@
 
 ## Visual Walkthrough
 
-
-![](Assets/ImageK/kothi kolli images_page-0001.jpg)
-
-![](Assets/ImageK/kothi kolli images_page-0002.jpg)
-
-![](Assets/ImageK/kothi kolli images_page-0003.jpg)
-
-![](Assets/ImageK/kothi kolli images_page-0004.jpg)
-
-![](Assets/ImageK/kothi kolli images_page-0005.jpg)
+###.
+![Image](Assets/ImageK/kothi kolli images_page-0001.jpg)
+###.
+![Image](Assets/ImageK/kothi kolli images_page-0002.jpg)
+###.
+![Image](Assets/ImageK/kothi kolli images_page-0003.jpg)
+###.
+![Image](Assets/ImageK/kothi kolli images_page-0004.jpg)
+###.
+![Image](Assets/ImageK/kothi kolli images_page-0005.jpg)
 
 
 ---
